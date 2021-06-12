@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     const slides = document.querySelectorAll('.slide');
 
     slides.forEach((slide) => {
